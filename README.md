@@ -3,10 +3,11 @@
 
 **HTML - CSS - JS - PHP | Beyaz Tema Blog Sitesi**
 
-Bu proje, animasyonlarla zenginleştirilmiş ve "Guns, Love, or Logic" tarzı simgelerle donatılmış bir beyaz tema blog sitesidir. Basit ve şık tasarımıyla kullanıcı dostu bir deneyim sunar.
+Bu proje, animasyonlarla zenginleştirilmiş ve "Guns(guns.lol Tarzı), Love, or Logic" tarzı simgelerle donatılmış bir beyaz tema blog sitesidir. Basit ve şık tasarımıyla kullanıcı dostu bir deneyim sunar.
 
 ## Özellikler
 
+- **Giriş:** Siteye girenleri kayıt ediyor.
 - **Beyaz Tema:** Minimalist ve temiz bir arayüz.
 - **Animasyonlar:** Etkileşimli ve akıcı kullanıcı deneyimi.
 - **Guns LOL Tarzı İkonlar:** Tasarımı benzersiz kılan özel ikonlar.
