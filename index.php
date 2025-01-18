@@ -1,16 +1,16 @@
 <?php
 $social_links = [
     ['url' => 'https://github.com/TPashaxrd', 'icon' => 'fab fa-github'],
-    ['url' => 'https://www.instagram.com/toprak.altins', 'icon' => 'fab fa-instagram'],
+    ['url' => 'https://www.instagram.com/', 'icon' => 'fab fa-instagram'],
     ['url' => 'https://spotify.com', 'icon' => 'fab fa-spotify']
 ];
 
 $projects = [
     [
         'img' => 'your-img-link',
-        'url' => 'https://nivesoft.com/',
-        'title' => 'NiveSOFT',
-        'desc' => 'Nivesoft'
+        'url' => 'https://.com/',
+        'title' => 'X',
+        'desc' => 'X'
     ]
 ];
 ?>
@@ -24,7 +24,7 @@ $projects = [
     <title>Toprak | Personal WebSite</title>
     <meta name="description" content="TPasha">
     <link rel="stylesheet" href="./personalim.css">
-    <link rel="favicon" href="https://toprak.nivesoft.com/img/tpasha.jpg">
+    <link rel="favicon" href="YOUR_FAVİCON">
     <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
 </head>
 <body class="animate-fade-in-down" style="height: 100%;">
@@ -82,7 +82,7 @@ $projects = [
             </div>
         </div>
         <div class="footer">
-            <a href="toprak.nivesoft.com" class="footer-link">&copy; <?= date('Y'); ?> Toprak Tüm Hakları Saklıdır.</a>
+            <a href="your-web-page" class="footer-link">&copy; <?= date('Y'); ?> Toprak Tüm Hakları Saklıdır.</a>
         </div>
         <script src="scripts.js"></script>
     </main>
@@ -103,20 +103,6 @@ $projects = [
 <!-- 
 // ! HTML - CSS - JS
 // ? WHİTE THEME & DESİGN -->
-// ! ABOUT & PERSONEL PAGE
-//! DONT REMEMBER!
-// ? IF YOU WANT USE PHP EVERYTİME,
-// ! DONT REMEMBER, PHP IS NOT SAFE
-// ? Php Have big risk, Example: SQL Server (SQLİnjection)
-
-// ! You can use React Framework
-// ? React is NodeJS Freamework &
-// ? You can use 
-// ? Tailwindcss & Css & JSX & TSX & HTML
-
-// ! SQL & PHP = NotSafe
-// ? React = Safe 
-
 <!-- ! Dont use Php. If youre create only Personel blog you can, But if -->
 <!-- ! You creating Big Project, Dont use PHP (IThink:YourChoice) -->
 -->
